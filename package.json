@@ -1,0 +1,17 @@
+{
+  "name": "kess-flow-examples",
+  "version": "0.1.0",
+  "description": "Kess Flow Examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "ts-node main.ts graphs/testv1.json graphs/testv2.json"
+  },
+  "author": "me@yamajik.com",
+  "license": "ISC",
+  "dependencies": {
+    "kess-flow": "^0.1.9"
+  },
+  "devDependencies": {
+    "ts-node": "^9.1.1"
+  }
+}
