@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "commander": "^7.2.0",
-    "kess-flow": "^0.1.9",
+    "kess-flow": "^0.2.0",
     "request": "^2.88.2",
     "request-promise-native": "^1.0.9"
   },
